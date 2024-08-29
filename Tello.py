@@ -1,7 +1,7 @@
 #08/29/2024
-#ask samuel saylor for more questions
+#ask samuel ross saylor the first for more questions
 
-from easytello import tello
+from easytello import tello # imports tello and gives you access to it
 
 drone = tello.Tello()
 
